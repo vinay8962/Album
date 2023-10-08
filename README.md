@@ -16,7 +16,7 @@ Data is fetched from the API and stored in a state and then further tasks are im
 <img  src="https://user-images.githubusercontent.com/18380165/224329339-a5174b23-1a5c-4ae4-95c8-ead20a29d77e.png" width="100" height="100">
 
 
-### To see the project: https://albums-collection-react-cn.netlify.app
+### To see the project: jovial-tartufo-50e40b.netlify.app
 
 Preview the project...
 
